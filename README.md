@@ -1,4 +1,3 @@
-<img src=screenshots/starwars_small.gif width=100% />
 
 # Custom Object Detection with TensorFlow
 Object detection allows for the recognition, detection, and localization of multiple objects within an image. It provides us a much better understanding of an image as a whole as apposed to just visual recognition.
@@ -92,10 +91,6 @@ python object_detection/object_detection_runner.py
 
 It will run your object detection model found at `output_inference_graph/frozen_inference_graph.pb` on all the images in the `test_images` directory and output the results in the `output/test_images` directory.
 
-## Results
-Here’s what I got from running my model over all the frames in this clip from Star Wars: The Force Awakens.
-
-[![Watch the video](screenshots/youtube.png)](https://www.youtube.com/watch?v=xW2hpkoaIiM)
 
 ## License
 
