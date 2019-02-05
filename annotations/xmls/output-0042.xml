@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>output-0042.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Body</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>106</xmin>
+            <ymin>117</ymin>
+            <xmax>813</xmax>
+            <ymax>647</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bridge</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>255</xmin>
+            <ymin>274</ymin>
+            <xmax>321</xmax>
+            <ymax>455</ymax>
+        </bndbox>
+    </object>
+</annotation>

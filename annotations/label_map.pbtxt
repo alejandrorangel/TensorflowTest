@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'Body'
+}
+
+item {
+  id: 2
+  name: 'Bridge'
+}
+
+item {
+  id: 3
+  name: 'Headstock'
+}
