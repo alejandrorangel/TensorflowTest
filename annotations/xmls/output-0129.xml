@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>output-0129.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Body</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>178</ymin>
+            <xmax>380</xmax>
+            <ymax>631</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Headstock</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>836</xmin>
+            <ymin>269</ymin>
+            <xmax>1134</xmax>
+            <ymax>530</ymax>
+        </bndbox>
+    </object>
+</annotation>
